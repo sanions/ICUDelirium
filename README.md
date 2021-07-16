@@ -22,4 +22,4 @@ delirium. The prediction model can also be key in identifying the most prominent
 delirium and refine existing delirium tests, such as the CAM-ICU.
 
 
-The cleaned dataset used for analysis is masterFinal.csv. The main analysis is conducted in PredictionModels.ipnyb. 
+The cleaned dataset used for analysis is masterFinal.csv. The main analysis is conducted in PredictionModels.ipnyb. The rest of the notebooks are cleaning data for which the original csv files are not included due to their massive size. This data is from MIT's MIMIC Database, found at https://mimic.mit.edu/. 
