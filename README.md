@@ -20,3 +20,6 @@ create the predictive model which currently has a 64.8% accuracy, 0.637 precisio
 treatment plan and adjusting conditions for patients, in order to reduce the probability of
 delirium. The prediction model can also be key in identifying the most prominent causes of
 delirium and refine existing delirium tests, such as the CAM-ICU.
+
+
+The cleaned dataset used for analysis is masterFinal.csv. The main analysis is conducted in PredictionModels.ipnyb. 
